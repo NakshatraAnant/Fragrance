@@ -15,7 +15,7 @@ export default defineConfig({
     { name: "mobile", use: { ...devices["Pixel 7"] }, testMatch: /mobile\.spec\.ts/ },
   ],
   webServer: {
-    command: "npx prisma db push --skip-generate --force-reset && npx tsx prisma/seed.ts && npx next start -p 3100",
+    command: "node scripts/prepare-test-db.mjs e2e.db && npx next start -p 3100",
     url: "http://localhost:3100",
     timeout: 180_000,
     reuseExistingServer: false,
