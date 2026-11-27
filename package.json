@@ -1,0 +1,47 @@
+{
+  "name": "fragrance-house",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vasana House fragrance discovery & commerce ecosystem: Dhun, Vasana, Anvaya storefronts, Odaya B2B portal and admin control centre.",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
+    "db:push": "prisma db push",
+    "db:migrate": "prisma migrate dev",
+    "db:deploy": "prisma migrate deploy",
+    "db:seed": "tsx prisma/seed.ts",
+    "db:reset": "prisma migrate reset --force",
+    "setup": "prisma migrate deploy && tsx prisma/seed.ts",
+    "catalogue:parse": "node scripts/parse-blueprint.js",
+    "test": "vitest run",
+    "test:unit": "vitest run tests/unit",
+    "test:integration": "vitest run tests/integration",
+    "test:e2e": "playwright test",
+    "jobs:expire": "tsx scripts/run-jobs.ts"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19.3",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@tailwindcss/postcss": "4.1.17",
+    "@types/node": "22.19.1",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "prisma": "6.19.3",
+    "tailwindcss": "4.1.17",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "^5.1.2"
+  }
+}

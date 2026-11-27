@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+coverage/
+*.db
+*.db-journal
+prisma/*.db*
+.env
+.env.local
+.env.*.local
+public/uploads/*
+!public/uploads/.gitkeep
+test-results/
+playwright-report/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store

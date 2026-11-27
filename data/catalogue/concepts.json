@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "D01",
+    "name": "Monsoon Static",
+    "brand": "Dhun",
+    "family": "Aquatic-green",
+    "top": [
+      "Cucumber water",
+      "green mandarin",
+      "ozonic notes"
+    ],
+    "heart": [
+      "Petrichor accord",
+      "violet leaf",
+      "lotus"
+    ],
+    "base": [
+      "Vetiver",
+      "clean musks",
+      "ambery woods"
+    ],
+    "journey": "Splash of cold water and green citrus → Wet-earth and watery florals emerge → Soft vetiver-musk skin scent",
+    "sourceSlide": 201,
+    "story": "First-rain freshness for daily wear. Story: The 4 pm cloudburst that cools the city",
+    "character": "Cool, damp, clean",
+    "target": "Students and young professionals, 18-28",
+    "occasion": "College, office, gym",
+    "climate": "Built for humid heat; light sillage",
+    "gender": "Unisex",
+    "tierFormat": "Mass-premium · EDP 15-18%",
+    "differentiation": "Petrichor done fresh, not earthy-heavy",
+    "packaging": "Frosted cylinder, monsoon-blue lacquer",
+    "marketing": "'Smell like the first rain, every day'",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "D02",
+    "name": "Filter Kaapi",
+    "brand": "Dhun",
+    "family": "Gourmand",
+    "top": [
+      "Cardamom",
+      "bergamot"
+    ],
+    "heart": [
+      "Roasted coffee accord",
+      "jaggery"
+    ],
+    "base": [
+      "Tonka",
+      "vanilla",
+      "cashmere woods"
+    ],
+    "journey": "Spiced citrus and fresh cardamom → Dark coffee with jaggery sweetness → Creamy tonka-vanilla",
+    "sourceSlide": 201,
+    "story": "South Indian coffee ritual in a bottle. Story: Morning decoction in a Chennai kitchen",
+    "character": "Warm, roasty, sweet",
+    "target": "Gen Z gourmand fans",
+    "occasion": "Evenings, dates, winter",
+    "climate": "Best Oct-Feb; moderate in heat",
+    "gender": "Unisex",
+    "tierFormat": "Mass-premium · EDP 16-18%",
+    "differentiation": "Regional coffee story vs generic vanilla",
+    "packaging": "Coffee-brown lacquer, copper cap",
+    "marketing": "Davara-tumbler pour content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "D03",
+    "name": "Neon Nimbu",
+    "brand": "Dhun",
+    "family": "Citrus",
+    "top": [
+      "Lime",
+      "kaffir leaf",
+      "ginger"
+    ],
+    "heart": [
+      "Neroli",
+      "green tea"
+    ],
+    "base": [
+      "White musk",
+      "cedar"
+    ],
+    "journey": "Fizzy lime peel → Tea and neroli soften the zest → Clean cedar-musk",
+    "sourceSlide": 201,
+    "story": "Hyper-bright lime for hot days. Story: Nimbu soda at a roadside stall",
+    "character": "Zesty, sparkling",
+    "target": "Active young adults",
+    "occasion": "Gym, summer, day",
+    "climate": "Peak summer; re-spray friendly",
+    "gender": "Unisex",
+    "tierFormat": "Mass-premium · EDP 15%",
+    "differentiation": "Indian nimbu-pani energy",
+    "packaging": "Neon-yellow cylinder",
+    "marketing": "Nimbu-soda fizz reels",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "D04",
+    "name": "Velvet Rush",
+    "brand": "Dhun",
+    "family": "Fruity floral",
+    "top": [
+      "Pear",
+      "litchi",
+      "pink pepper"
+    ],
+    "heart": [
+      "Peony",
+      "rose",
+      "jasmine sambac"
+    ],
+    "base": [
+      "Vanilla musk",
+      "sandalwood"
+    ],
+    "journey": "Juicy pear and litchi → Rosy-jasmine heart → Vanilla-musk glow",
+    "sourceSlide": 201,
+    "story": "Party-ready fruity floral. Story: Getting ready for a friend's sangeet",
+    "character": "Juicy, bright, soft",
+    "target": "Women 18-30",
+    "occasion": "Parties, dates",
+    "climate": "All-season; strongest at night",
+    "gender": "Feminine",
+    "tierFormat": "Mass-premium · EDP 18%",
+    "differentiation": "Indian litchi and mogra twist on fruity florals",
+    "packaging": "Blush-pink cylinder",
+    "marketing": "'Get ready with me' content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "D05",
+    "name": "Blue Hour",
+    "brand": "Dhun",
+    "family": "Aromatic fougere",
+    "top": [
+      "Grapefruit",
+      "mint"
+    ],
+    "heart": [
+      "Lavender",
+      "sage",
+      "geranium"
+    ],
+    "base": [
+      "Ambery woods",
+      "clean patchouli",
+      "cedar"
+    ],
+    "journey": "Bitter grapefruit and cool mint → Herbal lavender heart → Ambery-woody trail",
+    "sourceSlide": 201,
+    "story": "Modern office-ready fresh fougere. Story: The blue hour after a long workday",
+    "character": "Crisp, aromatic, confident",
+    "target": "Men 20-35",
+    "occasion": "Office, daily",
+    "climate": "All-season",
+    "gender": "Masculine",
+    "tierFormat": "Mass-premium · EDP 16-18%",
+    "differentiation": "Clean blue profile tuned for heat",
+    "packaging": "Deep-blue cylinder",
+    "marketing": "'Commute-proof' durability tests",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "D06",
+    "name": "Oud Rush",
+    "brand": "Dhun",
+    "family": "Oud-inspired amber",
+    "top": [
+      "Saffron",
+      "spice",
+      "rose"
+    ],
+    "heart": [
+      "Oud accord",
+      "rose"
+    ],
+    "base": [
+      "Amber",
+      "vanilla",
+      "smoky woods"
+    ],
+    "journey": "Saffron-spice burst → Rosy oud accord → Sweet amber-smoke",
+    "sourceSlide": 201,
+    "story": "Accessible oud for celebrations. Story: The baraat that never ends",
+    "character": "Rich, sweet, smoky",
+    "target": "Men 20-35; wedding guests",
+    "occasion": "Weddings, evenings, Eid",
+    "climate": "Winter and night; heavy in summer",
+    "gender": "Masculine-unisex",
+    "tierFormat": "Mass-premium · EDP 18%",
+    "differentiation": "Oud performance at Dhun price; honest 'oud accord' labelling",
+    "packaging": "Black cylinder, gold print",
+    "marketing": "Baraat-ready content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "M01",
+    "name": "Coconut Cloud",
+    "brand": "Dhun",
+    "family": "Gourmand floral",
+    "top": [
+      "Coconut water"
+    ],
+    "heart": [
+      "Frangipani"
+    ],
+    "base": [
+      "Coconut milk",
+      "musk"
+    ],
+    "journey": "Coconut water → Frangipani → Milky musk",
+    "sourceSlide": 201,
+    "story": "Soft body and hair mist. Story: Holidays in Goa",
+    "character": "Creamy, beachy",
+    "target": "Women 16-28",
+    "occasion": "Daily, after shower",
+    "climate": "Hot-humid; low intensity",
+    "gender": "Feminine",
+    "tierFormat": "Mass-premium · Body & hair mist 4-6%",
+    "differentiation": "Hair-safe low-alcohol mist",
+    "packaging": "Opaque PET, pump",
+    "marketing": "Layer-with-EDP content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "M02",
+    "name": "Mango Masti",
+    "brand": "Dhun",
+    "family": "Fruity",
+    "top": [
+      "Mango",
+      "tangerine"
+    ],
+    "heart": [
+      "Peach",
+      "freesia"
+    ],
+    "base": [
+      "Musk"
+    ],
+    "journey": "Ripe mango → Peach-freesia → Soft musk",
+    "sourceSlide": 201,
+    "story": "Alphonso mango body mist. Story: Mango season",
+    "character": "Juicy, playful",
+    "target": "Women and teens 16-25",
+    "occasion": "Summer daily",
+    "climate": "Summer",
+    "gender": "Feminine",
+    "tierFormat": "Mass-premium · Body & hair mist 4-6%",
+    "differentiation": "Seasonal hero for Apr-Jun",
+    "packaging": "Opaque PET, pump",
+    "marketing": "Summer drop",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "M03",
+    "name": "Rose Lassi",
+    "brand": "Dhun",
+    "family": "Floral gourmand",
+    "top": [
+      "Rose",
+      "pink pepper"
+    ],
+    "heart": [
+      "Milk accord",
+      "cardamom"
+    ],
+    "base": [
+      "Musk",
+      "vanilla"
+    ],
+    "journey": "Rosy pepper → Milky cardamom → Vanilla musk",
+    "sourceSlide": 202,
+    "story": "Rose with milky softness. Story: Lassi at a dhaba",
+    "character": "Soft, rosy, creamy",
+    "target": "Women 18-30",
+    "occasion": "Daily",
+    "climate": "All-season",
+    "gender": "Feminine",
+    "tierFormat": "Mass-premium · Body & hair mist 4-6%",
+    "differentiation": "Lassi story; layering with Velvet Rush",
+    "packaging": "Opaque PET, pump",
+    "marketing": "Layering kits",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "M04",
+    "name": "Pudina Breeze",
+    "brand": "Dhun",
+    "family": "Fresh aromatic",
+    "top": [
+      "Mint",
+      "lime"
+    ],
+    "heart": [
+      "Green tea"
+    ],
+    "base": [
+      "Clean musk"
+    ],
+    "journey": "Icy mint → Green tea → Clean musk",
+    "sourceSlide": 202,
+    "story": "Cooling mint mist for men and women. Story: Pudina chutney freshness",
+    "character": "Cool, sharp",
+    "target": "Unisex 18-30",
+    "occasion": "Gym, travel",
+    "climate": "Summer",
+    "gender": "Unisex",
+    "tierFormat": "Mass-premium · Body & hair mist 4-6%",
+    "differentiation": "Cooling claim (sensation, not temperature)",
+    "packaging": "Opaque PET, pump",
+    "marketing": "Gym bag essential",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V01",
+    "name": "Mogra Hour",
+    "brand": "Vasana",
+    "family": "White floral",
+    "top": [
+      "Green pear",
+      "bergamot"
+    ],
+    "heart": [
+      "Jasmine sambac absolute",
+      "tuberose"
+    ],
+    "base": [
+      "Sandalwood",
+      "musk"
+    ],
+    "journey": "Dewy green pear → Full jasmine-tuberose bloom → Creamy sandal-musk",
+    "sourceSlide": 202,
+    "story": "Jasmine sambac as modern luxury. Story: The mogra string sold at dusk",
+    "character": "Luminous, heady, creamy",
+    "target": "Women 25-45; gifting",
+    "occasion": "Evenings, weddings",
+    "climate": "All-season; radiant in humidity",
+    "gender": "Feminine-unisex",
+    "tierFormat": "Premium · EDP 18-22%",
+    "differentiation": "Real Indian jasmine with clean modern structure",
+    "packaging": "Faceted glass, champagne cap",
+    "marketing": "Gajra ritual films",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V02",
+    "name": "First Rain",
+    "brand": "Vasana",
+    "family": "Earthy woody (petrichor)",
+    "top": [
+      "Cardamom",
+      "green mango"
+    ],
+    "heart": [
+      "Earthy accord",
+      "vetiver (khus)"
+    ],
+    "base": [
+      "Cedar",
+      "musk",
+      "ambergris-type notes"
+    ],
+    "journey": "Green spice → Wet-earth and khus → Woody musk",
+    "sourceSlide": 202,
+    "story": "Signature petrichor with khus. Story: Kannauj distillers bottle baked earth",
+    "character": "Mineral, green, grounding",
+    "target": "Fragrance enthusiasts 22-40",
+    "occasion": "Daily signature",
+    "climate": "Monsoon and humid weather",
+    "gender": "Unisex",
+    "tierFormat": "Premium · EDP 18-20%",
+    "differentiation": "Khus and green mango make it distinct from other 'mitti' scents",
+    "packaging": "Faceted glass, clay-toned cap",
+    "marketing": "Sound-of-rain ASMR; maker stories",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V03",
+    "name": "Saffron Sandal",
+    "brand": "Vasana",
+    "family": "Amber woody",
+    "top": [
+      "Saffron",
+      "pink pepper"
+    ],
+    "heart": [
+      "Rose",
+      "leather accent"
+    ],
+    "base": [
+      "Sandalwood",
+      "ambery woods"
+    ],
+    "journey": "Saffron glow → Rose-leather → Creamy sandalwood",
+    "sourceSlide": 202,
+    "story": "Kesar-chandan, made modern. Story: Kesar-chandan tilak tradition",
+    "character": "Rich, smooth, refined",
+    "target": "Affluent 28-50",
+    "occasion": "Weddings, festive, evenings",
+    "climate": "Winter and AC interiors",
+    "gender": "Unisex",
+    "tierFormat": "Prestige · EDP 20-22%",
+    "differentiation": "Sustainably sourced sandalwood story",
+    "packaging": "Faceted glass, gold cap",
+    "marketing": "Wedding-season hero",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V04",
+    "name": "Malabar Pepper",
+    "brand": "Vasana",
+    "family": "Spicy woody",
+    "top": [
+      "Black pepper",
+      "cardamom",
+      "ginger"
+    ],
+    "heart": [
+      "Clove leaf",
+      "black tea"
+    ],
+    "base": [
+      "Guaiac wood",
+      "vetiver",
+      "amber"
+    ],
+    "journey": "Cracked pepper → Spiced tea → Dry amber woods",
+    "sourceSlide": 202,
+    "story": "Spice-coast woods. Story: Spice ships off the Malabar coast",
+    "character": "Peppery, dry, warm",
+    "target": "Men 25-45",
+    "occasion": "Office, evening",
+    "climate": "All-season",
+    "gender": "Masculine-unisex",
+    "tierFormat": "Premium · EDP 18-20%",
+    "differentiation": "Indian spice provenance; avoids generic blue scents",
+    "packaging": "Faceted glass, dark-wood cap",
+    "marketing": "Spice-route content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V05",
+    "name": "Tea Estate",
+    "brand": "Vasana",
+    "family": "Fresh tea (green-aromatic)",
+    "top": [
+      "Bergamot",
+      "tea leaf"
+    ],
+    "heart": [
+      "Osmanthus",
+      "hay"
+    ],
+    "base": [
+      "Musk",
+      "light woods"
+    ],
+    "journey": "Tea and bergamot → Apricot-osmanthus → Soft musk",
+    "sourceSlide": 202,
+    "story": "Darjeeling first flush. Story: Mist over Darjeeling slopes",
+    "character": "Airy, calm, transparent",
+    "target": "Working professionals 25-40",
+    "occasion": "Office, travel",
+    "climate": "Hot weather; office-safe",
+    "gender": "Unisex",
+    "tierFormat": "Premium · EDP 18%",
+    "differentiation": "Office-safe signature",
+    "packaging": "Faceted glass, celadon cap",
+    "marketing": "Estate-to-bottle films",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V06",
+    "name": "Jharokha Amber",
+    "brand": "Vasana",
+    "family": "Amber oriental",
+    "top": [
+      "Cinnamon",
+      "mandarin"
+    ],
+    "heart": [
+      "Labdanum",
+      "rose"
+    ],
+    "base": [
+      "Benzoin",
+      "tonka",
+      "vanilla",
+      "oud accord"
+    ],
+    "journey": "Spiced citrus → Rose-amber heart → Vanilla-resin trail",
+    "sourceSlide": 202,
+    "story": "Palace-window amber. Story: Light through a carved jharokha",
+    "character": "Opulent, warm, resinous",
+    "target": "Affluent 25-45; occasion buyers",
+    "occasion": "Weddings, winter nights",
+    "climate": "Winter and night",
+    "gender": "Unisex",
+    "tierFormat": "Prestige · EDP 20-22%",
+    "differentiation": "Rajasthani heritage; long-wearing in AC",
+    "packaging": "Faceted glass, antique-gold cap",
+    "marketing": "Festive and wedding gifting",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V07",
+    "name": "Konkan Vetiver",
+    "brand": "Vasana",
+    "family": "Fresh woody",
+    "top": [
+      "Coconut water",
+      "lime",
+      "sea salt"
+    ],
+    "heart": [
+      "Vetiver"
+    ],
+    "base": [
+      "Driftwood",
+      "musk"
+    ],
+    "journey": "Lime and coconut water → Salty vetiver → Clean driftwood",
+    "sourceSlide": 203,
+    "story": "Coastal vetiver. Story: Konkan shoreline at noon",
+    "character": "Salty, green, clean",
+    "target": "Men 22-40",
+    "occasion": "Summer, weekends",
+    "climate": "Summer and coast",
+    "gender": "Masculine-unisex",
+    "tierFormat": "Premium · EDP 18%",
+    "differentiation": "Indian coastline instead of a Mediterranean one",
+    "packaging": "Faceted glass, sea-glass cap",
+    "marketing": "Beach-shack content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "V08",
+    "name": "Gulmohar",
+    "brand": "Vasana",
+    "family": "Fruity floral",
+    "top": [
+      "Red berries",
+      "litchi",
+      "pink pepper"
+    ],
+    "heart": [
+      "Rose",
+      "red floral accord"
+    ],
+    "base": [
+      "Musk",
+      "cashmere wood"
+    ],
+    "journey": "Berry-pepper sparkle → Rose and red florals → Soft musky woods",
+    "sourceSlide": 203,
+    "story": "Flame-tree floral. Story: Gulmohar avenues in May",
+    "character": "Bright, joyful, blooming",
+    "target": "Women 22-38",
+    "occasion": "Day, brunch, gifting",
+    "climate": "All-season",
+    "gender": "Feminine",
+    "tierFormat": "Premium · EDP 18%",
+    "differentiation": "Indian flowering tree; younger premium entry",
+    "packaging": "Faceted glass, coral cap",
+    "marketing": "May-bloom campaign",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "A01",
+    "name": "Shamama Nova",
+    "brand": "Vasana",
+    "family": "Spicy resinous (attar)",
+    "top": [
+      "Saffron",
+      "nutmeg"
+    ],
+    "heart": [
+      "Herbs",
+      "rose",
+      "spices"
+    ],
+    "base": [
+      "Resins",
+      "woods",
+      "musk"
+    ],
+    "journey": "Spice → Herbal-rose → Resinous woods",
+    "sourceSlide": 203,
+    "story": "Modern shamama. Story: Winter attar of Kannauj",
+    "character": "Deep, herbal, ceremonial",
+    "target": "Attar users and enthusiasts",
+    "occasion": "Winter, festive",
+    "climate": "Winter",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Perfume oil, 8 ml roll-on",
+    "differentiation": "Heritage formula category, modern pack and documentation",
+    "packaging": "Glass roll-on in wooden sleeve",
+    "marketing": "Kannauj craft films",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "A02",
+    "name": "Ruh Khus Modern",
+    "brand": "Vasana",
+    "family": "Green earthy (attar)",
+    "top": [
+      "Green notes"
+    ],
+    "heart": [
+      "Vetiver (khus)"
+    ],
+    "base": [
+      "Woods",
+      "musk"
+    ],
+    "journey": "Green earth → Khus → Woody",
+    "sourceSlide": 203,
+    "story": "Cooling vetiver oil. Story: Khus screens in summer",
+    "character": "Green, earthy, cooling",
+    "target": "Attar users, summer buyers",
+    "occasion": "Summer",
+    "climate": "Summer",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Perfume oil, 8 ml roll-on",
+    "differentiation": "Summer attar with labelled composition",
+    "packaging": "Glass roll-on",
+    "marketing": "Summer ritual",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "A03",
+    "name": "Gulab Kannauj",
+    "brand": "Vasana",
+    "family": "Rose (attar)",
+    "top": [
+      "Rose"
+    ],
+    "heart": [
+      "Rose distillate",
+      "geranium"
+    ],
+    "base": [
+      "Sandalwood-type base",
+      "musk"
+    ],
+    "journey": "Fresh rose → Deep rose → Soft woods",
+    "sourceSlide": 203,
+    "story": "Rose attar. Story: Roses of Kannauj",
+    "character": "Rosy, honeyed",
+    "target": "Gifting, attar users",
+    "occasion": "Festive, prayer, weddings",
+    "climate": "All-season",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Perfume oil, 8 ml roll-on",
+    "differentiation": "Kannauj rose distillate content declared",
+    "packaging": "Glass roll-on",
+    "marketing": "Craft provenance",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "A04",
+    "name": "Kasturi White",
+    "brand": "Vasana",
+    "family": "Musk (attar)",
+    "top": [
+      "Aldehydic lift"
+    ],
+    "heart": [
+      "White florals"
+    ],
+    "base": [
+      "Synthetic musks"
+    ],
+    "journey": "Soft lift → Floral-musk → Skin musk",
+    "sourceSlide": 203,
+    "story": "Clean white musk oil. Story: Second skin",
+    "character": "Clean, skin-like",
+    "target": "All attar users",
+    "occasion": "Daily, prayer",
+    "climate": "All-season",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Perfume oil, 8 ml roll-on",
+    "differentiation": "Modern musks; clear 'no animal musk' labelling",
+    "packaging": "Glass roll-on",
+    "marketing": "Everyday musk",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "A05",
+    "name": "Oud Assam Accord",
+    "brand": "Vasana",
+    "family": "Oud-inspired (attar)",
+    "top": [
+      "Saffron"
+    ],
+    "heart": [
+      "Oud accord",
+      "rose"
+    ],
+    "base": [
+      "Woods",
+      "amber"
+    ],
+    "journey": "Saffron → Oud accord → Amber woods",
+    "sourceSlide": 203,
+    "story": "Oud accord oil. Story: Assam agar forests (story only)",
+    "character": "Smoky, resinous",
+    "target": "Oud lovers",
+    "occasion": "Evenings, Eid, weddings",
+    "climate": "Winter",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Perfume oil, 8 ml roll-on",
+    "differentiation": "Honest accord at accessible price; no natural-oud claim",
+    "packaging": "Glass roll-on",
+    "marketing": "Oud education content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "S01",
+    "name": "Mogra Hour Solid",
+    "brand": "Vasana",
+    "family": "White floral",
+    "top": [
+      "Pear"
+    ],
+    "heart": [
+      "Jasmine sambac"
+    ],
+    "base": [
+      "Sandalwood",
+      "musk"
+    ],
+    "journey": "Pear → Jasmine → Sandal-musk",
+    "sourceSlide": 203,
+    "story": "Solid perfume of Mogra Hour. Story: Mogra in a pocket",
+    "character": "Creamy floral",
+    "target": "Travellers, office",
+    "occasion": "Travel, touch-up",
+    "climate": "All-season (store below 35 C)",
+    "gender": "Feminine-unisex",
+    "tierFormat": "Premium · Solid balm 10 g",
+    "differentiation": "Spill-proof travel format",
+    "packaging": "Brass compact",
+    "marketing": "Handbag essential",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "S02",
+    "name": "First Rain Solid",
+    "brand": "Vasana",
+    "family": "Earthy woody",
+    "top": [
+      "Cardamom"
+    ],
+    "heart": [
+      "Earth",
+      "khus"
+    ],
+    "base": [
+      "Cedar",
+      "musk"
+    ],
+    "journey": "Spice → Earth → Woods",
+    "sourceSlide": 204,
+    "story": "Solid perfume of First Rain. Story: Rain in a pocket",
+    "character": "Mineral green",
+    "target": "Travellers",
+    "occasion": "Travel",
+    "climate": "All-season (store below 35 C)",
+    "gender": "Unisex",
+    "tierFormat": "Premium · Solid balm 10 g",
+    "differentiation": "Spill-proof travel format",
+    "packaging": "Brass compact",
+    "marketing": "Carry-on content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "X01",
+    "name": "Rajmahal Rose",
+    "brand": "Anvaya",
+    "family": "Rose oud (chypre-leaning)",
+    "top": [
+      "Saffron",
+      "bergamot"
+    ],
+    "heart": [
+      "Rose absolute",
+      "rose distillate"
+    ],
+    "base": [
+      "Oud accord",
+      "ambrette",
+      "patchouli"
+    ],
+    "journey": "Saffron light → Opulent rose → Oud-ambrette depth",
+    "sourceSlide": 204,
+    "story": "Royal rose extrait. Story: Rose garlands of palace courtyards",
+    "character": "Regal, velvety, deep",
+    "target": "Luxury buyers, collectors",
+    "occasion": "Weddings, black tie",
+    "climate": "Winter and AC interiors",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Extrait 25-30%",
+    "differentiation": "Indian rose with high naturals content",
+    "packaging": "Weighted glass, brass cap, rigid box",
+    "marketing": "Atelier films, private previews",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "X02",
+    "name": "Nilgiri Night",
+    "brand": "Anvaya",
+    "family": "White floral smoky",
+    "top": [
+      "Eucalyptus",
+      "tea"
+    ],
+    "heart": [
+      "Tuberose"
+    ],
+    "base": [
+      "Vanilla",
+      "smoky woods"
+    ],
+    "journey": "Eucalyptus chill → Tuberose bloom → Smoky vanilla",
+    "sourceSlide": 204,
+    "story": "Hill-station night. Story: Bonfire nights in the Nilgiris",
+    "character": "Cool, nocturnal, creamy",
+    "target": "Collectors",
+    "occasion": "Evening",
+    "climate": "Cool weather",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Extrait 25%",
+    "differentiation": "Unexpected pairing: eucalyptus and tuberose",
+    "packaging": "Weighted glass",
+    "marketing": "Collector drops",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "X03",
+    "name": "Mysore Gold",
+    "brand": "Anvaya",
+    "family": "Sandalwood",
+    "top": [
+      "Cardamom"
+    ],
+    "heart": [
+      "Orris",
+      "milky accord"
+    ],
+    "base": [
+      "Sustainable sandalwood",
+      "cashmere wood"
+    ],
+    "journey": "Cardamom → Orris milk → Golden sandalwood",
+    "sourceSlide": 204,
+    "story": "Sandalwood extrait. Story: The sandalwood of Mysore",
+    "character": "Milky, soft, luminous",
+    "target": "Luxury buyers",
+    "occasion": "Daily luxury",
+    "climate": "All-season",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Extrait 25%",
+    "differentiation": "Traceable, legally sourced sandalwood",
+    "packaging": "Weighted glass",
+    "marketing": "Provenance documents",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "X04",
+    "name": "Deccan Incense",
+    "brand": "Anvaya",
+    "family": "Incense",
+    "top": [
+      "Cardamom",
+      "elemi"
+    ],
+    "heart": [
+      "Frankincense",
+      "guggul-type resin"
+    ],
+    "base": [
+      "Leather",
+      "woods"
+    ],
+    "journey": "Spice and resin → Incense smoke → Leather-woods",
+    "sourceSlide": 204,
+    "story": "Temple-stone incense. Story: Stone temples of the Deccan",
+    "character": "Smoky, sacred, dry",
+    "target": "Collectors, men 30-55",
+    "occasion": "Evening",
+    "climate": "Winter",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Extrait 25%",
+    "differentiation": "Indian resin story",
+    "packaging": "Weighted glass",
+    "marketing": "Architecture shoot",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "X05",
+    "name": "Champa Saffron",
+    "brand": "Anvaya",
+    "family": "Floral amber",
+    "top": [
+      "Plum",
+      "saffron"
+    ],
+    "heart": [
+      "Champaca absolute"
+    ],
+    "base": [
+      "Amber",
+      "musk"
+    ],
+    "journey": "Plum-saffron → Champaca → Golden amber",
+    "sourceSlide": 204,
+    "story": "Champaca and saffron. Story: Temple champa flowers",
+    "character": "Golden, fruity, floral",
+    "target": "Luxury women and gifting",
+    "occasion": "Weddings, festive",
+    "climate": "All-season",
+    "gender": "Feminine-unisex",
+    "tierFormat": "Luxury · Extrait 25%",
+    "differentiation": "Rare champaca absolute",
+    "packaging": "Weighted glass",
+    "marketing": "Bridal campaign",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "R01",
+    "name": "Ruh Gulab Kannauj",
+    "brand": "Anvaya",
+    "family": "Rose (ruh blend)",
+    "top": [
+      "Rose"
+    ],
+    "heart": [
+      "Rose distillate"
+    ],
+    "base": [
+      "Sandalwood-type base"
+    ],
+    "journey": "Rose → Rose → Soft wood",
+    "sourceSlide": 204,
+    "story": "Natural rose distillate blend. Story: Deg-bhapka rose",
+    "character": "Pure rose",
+    "target": "Connoisseurs, gifting",
+    "occasion": "Ceremonial",
+    "climate": "All-season",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Perfume oil 3 ml",
+    "differentiation": "Declared natural content and batch provenance",
+    "packaging": "Crystal vial in wooden box",
+    "marketing": "Connoisseur content",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "R02",
+    "name": "Mitti Ruh",
+    "brand": "Anvaya",
+    "family": "Earthy (ruh blend)",
+    "top": [
+      "Earth"
+    ],
+    "heart": [
+      "Earth distillate"
+    ],
+    "base": [
+      "Sandalwood-type base"
+    ],
+    "journey": "Earth → Earth → Wood",
+    "sourceSlide": 204,
+    "story": "Baked-earth distillate blend. Story: Clay baked in Kannauj",
+    "character": "Mineral, rain",
+    "target": "Connoisseurs",
+    "occasion": "Monsoon",
+    "climate": "Monsoon",
+    "gender": "Unisex",
+    "tierFormat": "Luxury · Perfume oil 3 ml",
+    "differentiation": "Kannauj mitti with documentation",
+    "packaging": "Crystal vial",
+    "marketing": "Monsoon drop",
+    "phase": "PHASE_ONE"
+  },
+  {
+    "id": "P01",
+    "name": "Calcutta Leather",
+    "brand": "Vasana",
+    "family": "Leather",
+    "top": [
+      "Suede",
+      "black tea",
+      "saffron"
+    ],
+    "heart": [
+      "Leather"
+    ],
+    "base": [
+      "Birch-type smoke",
+      "woods"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Men 28-45",
+    "occasion": "Winter evenings",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P02",
+    "name": "Darjeeling Chypre",
+    "brand": "Vasana",
+    "family": "Chypre",
+    "top": [
+      "Bergamot",
+      "tea"
+    ],
+    "heart": [
+      "Rose",
+      "patchouli"
+    ],
+    "base": [
+      "Oakmoss substitute",
+      "labdanum"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Women 28-45",
+    "occasion": "Office",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P03",
+    "name": "Bandra Barbershop",
+    "brand": "Dhun",
+    "family": "Fougere",
+    "top": [
+      "Lavender",
+      "lemon"
+    ],
+    "heart": [
+      "Geranium"
+    ],
+    "base": [
+      "Coumarin",
+      "moss notes"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Men 20-30",
+    "occasion": "Daily",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Mass-premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P04",
+    "name": "Galbanum Ghats",
+    "brand": "Vasana",
+    "family": "Green",
+    "top": [
+      "Galbanum",
+      "green leaves"
+    ],
+    "heart": [
+      "Violet leaf"
+    ],
+    "base": [
+      "Vetiver",
+      "musk"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Unisex 25-40",
+    "occasion": "Monsoon",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P05",
+    "name": "Alphonso",
+    "brand": "Dhun",
+    "family": "Fruity",
+    "top": [
+      "Mango",
+      "citrus"
+    ],
+    "heart": [
+      "Peach"
+    ],
+    "base": [
+      "Musk"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Women 18-28",
+    "occasion": "Summer",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Mass-premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P06",
+    "name": "Banaras Ghat",
+    "brand": "Anvaya",
+    "family": "Incense",
+    "top": [
+      "Marigold",
+      "spice"
+    ],
+    "heart": [
+      "Incense",
+      "sandal"
+    ],
+    "base": [
+      "Smoke",
+      "woods"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Collectors",
+    "occasion": "Evening",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Luxury · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P07",
+    "name": "Andaman Blue",
+    "brand": "Dhun",
+    "family": "Aquatic",
+    "top": [
+      "Sea salt",
+      "citrus"
+    ],
+    "heart": [
+      "Marine accord"
+    ],
+    "base": [
+      "Driftwood"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Men 18-30",
+    "occasion": "Summer",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Mass-premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P08",
+    "name": "Cotton Kurta",
+    "brand": "Vasana",
+    "family": "Musk",
+    "top": [
+      "Aldehydes",
+      "pear"
+    ],
+    "heart": [
+      "Cotton flower"
+    ],
+    "base": [
+      "Clean musks"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 205,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Unisex",
+    "occasion": "Daily",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P09",
+    "name": "Kashmir Nargis",
+    "brand": "Vasana",
+    "family": "Floral",
+    "top": [
+      "Narcissus",
+      "green"
+    ],
+    "heart": [
+      "Nargis",
+      "jasmine"
+    ],
+    "base": [
+      "Hay",
+      "musk"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Women 28-45",
+    "occasion": "Winter",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P10",
+    "name": "Kulfi Pista",
+    "brand": "Dhun",
+    "family": "Gourmand",
+    "top": [
+      "Cardamom"
+    ],
+    "heart": [
+      "Pistachio",
+      "milk"
+    ],
+    "base": [
+      "Vanilla"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Gen Z",
+    "occasion": "Evening",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Mass-premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P11",
+    "name": "Paan Leaf",
+    "brand": "Vasana",
+    "family": "Green spicy",
+    "top": [
+      "Betel leaf",
+      "lime"
+    ],
+    "heart": [
+      "Rose",
+      "gulkand"
+    ],
+    "base": [
+      "Woods"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Unisex",
+    "occasion": "Festive",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P12",
+    "name": "Kokum Cardamom",
+    "brand": "Dhun",
+    "family": "Spicy",
+    "top": [
+      "Kokum",
+      "cardamom"
+    ],
+    "heart": [
+      "Ginger"
+    ],
+    "base": [
+      "Woods"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Unisex",
+    "occasion": "Summer",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Mass-premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P13",
+    "name": "Shimla Deodar",
+    "brand": "Vasana",
+    "family": "Woody",
+    "top": [
+      "Pine",
+      "citrus"
+    ],
+    "heart": [
+      "Deodar"
+    ],
+    "base": [
+      "Musk"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Men",
+    "occasion": "Winter",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Premium · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P14",
+    "name": "Thar Dusk",
+    "brand": "Anvaya",
+    "family": "Amber",
+    "top": [
+      "Spice"
+    ],
+    "heart": [
+      "Amber",
+      "rose"
+    ],
+    "base": [
+      "Resins",
+      "leather"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Collectors",
+    "occasion": "Night",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Luxury · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  },
+  {
+    "id": "P15",
+    "name": "Hojai Smoke",
+    "brand": "Anvaya",
+    "family": "Oud",
+    "top": [
+      "Saffron"
+    ],
+    "heart": [
+      "CITES-documented agarwood"
+    ],
+    "base": [
+      "Woods"
+    ],
+    "journey": "Pipeline (Phase 2–3)",
+    "sourceSlide": 206,
+    "story": "Pipeline concept",
+    "character": "—",
+    "target": "Connoisseurs",
+    "occasion": "Ceremonial (Phase 3)",
+    "climate": "—",
+    "gender": "—",
+    "tierFormat": "Luxury · TBD",
+    "differentiation": "—",
+    "packaging": "—",
+    "marketing": "—",
+    "phase": "PIPELINE"
+  }
+]

@@ -1,0 +1,1290 @@
+[
+  {
+    "code": "DH-01",
+    "product": "Monsoon Static EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-02",
+    "product": "Monsoon Static EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-03",
+    "product": "Filter Kaapi EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-04",
+    "product": "Filter Kaapi EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-05",
+    "product": "Neon Nimbu EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-06",
+    "product": "Neon Nimbu EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-07",
+    "product": "Velvet Rush EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-08",
+    "product": "Velvet Rush EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-09",
+    "product": "Blue Hour EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-10",
+    "product": "Blue Hour EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-11",
+    "product": "Oud Rush EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 71900,
+    "mrpPerMl": "Rs 9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C",
+      "MT"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-12",
+    "product": "Oud Rush EDP 20 ml",
+    "format": "EDP pocket",
+    "netQty": "20 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 29900,
+    "expectedSellingPricePaise": 23900,
+    "mrpPerMl": "Rs 14.9",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "GT pilot"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-13",
+    "product": "Coconut Cloud Body & Hair Mist 150 ml",
+    "format": "Mist",
+    "netQty": "150 ml",
+    "concentrationPct": 5,
+    "mrpPaise": 44900,
+    "expectedSellingPricePaise": 35900,
+    "mrpPerMl": "Rs 3",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-14",
+    "product": "Mango Masti Body & Hair Mist 150 ml",
+    "format": "Mist",
+    "netQty": "150 ml",
+    "concentrationPct": 5,
+    "mrpPaise": 44900,
+    "expectedSellingPricePaise": 35900,
+    "mrpPerMl": "Rs 3",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-15",
+    "product": "Rose Lassi Body & Hair Mist 150 ml",
+    "format": "Mist",
+    "netQty": "150 ml",
+    "concentrationPct": 5,
+    "mrpPaise": 44900,
+    "expectedSellingPricePaise": 35900,
+    "mrpPerMl": "Rs 3",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-16",
+    "product": "Pudina Breeze Body & Hair Mist 150 ml",
+    "format": "Mist",
+    "netQty": "150 ml",
+    "concentrationPct": 5,
+    "mrpPaise": 44900,
+    "expectedSellingPricePaise": 35900,
+    "mrpPerMl": "Rs 3",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Low",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "DH-17",
+    "product": "Dhun Discovery Set 6 x 10 ml",
+    "format": "Discovery",
+    "netQty": "60 ml",
+    "concentrationPct": 17,
+    "mrpPaise": 69900,
+    "expectedSellingPricePaise": 55900,
+    "mrpPerMl": "Rs 11.7",
+    "channels": [
+      "D2C",
+      "marketplaces",
+      "QC"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 71
+  },
+  {
+    "code": "VA-01",
+    "product": "Mogra Hour EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 71
+  },
+  {
+    "code": "VA-02",
+    "product": "Mogra Hour EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-03",
+    "product": "First Rain EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-04",
+    "product": "First Rain EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-05",
+    "product": "Saffron Sandal EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-06",
+    "product": "Saffron Sandal EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-07",
+    "product": "Malabar Pepper EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-08",
+    "product": "Malabar Pepper EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-09",
+    "product": "Tea Estate EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-10",
+    "product": "Tea Estate EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-11",
+    "product": "Jharokha Amber EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-12",
+    "product": "Jharokha Amber EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-13",
+    "product": "Konkan Vetiver EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-14",
+    "product": "Konkan Vetiver EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-15",
+    "product": "Gulmohar EDP 50 ml",
+    "format": "EDP",
+    "netQty": "50 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 271400,
+    "mrpPerMl": "Rs 59",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "Myntra",
+      "stores",
+      "department stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-16",
+    "product": "Gulmohar EDP 100 ml",
+    "format": "EDP",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 425000,
+    "expectedSellingPricePaise": 391000,
+    "mrpPerMl": "Rs 42.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-17",
+    "product": "First Rain Travel Spray 10 ml",
+    "format": "Travel",
+    "netQty": "10 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 99500,
+    "expectedSellingPricePaise": 91500,
+    "mrpPerMl": "Rs 99.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "QC (premium cities)",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-18",
+    "product": "Mogra Hour Travel Spray 10 ml",
+    "format": "Travel",
+    "netQty": "10 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 99500,
+    "expectedSellingPricePaise": 91500,
+    "mrpPerMl": "Rs 99.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "QC (premium cities)",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-19",
+    "product": "Saffron Sandal Travel Spray 10 ml",
+    "format": "Travel",
+    "netQty": "10 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 99500,
+    "expectedSellingPricePaise": 91500,
+    "mrpPerMl": "Rs 99.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "QC (premium cities)",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 72
+  },
+  {
+    "code": "VA-20",
+    "product": "Malabar Pepper Travel Spray 10 ml",
+    "format": "Travel",
+    "netQty": "10 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 99500,
+    "expectedSellingPricePaise": 91500,
+    "mrpPerMl": "Rs 99.5",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "QC (premium cities)",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-21",
+    "product": "Vasana Discovery Set 8 x 2 ml (credit on full size)",
+    "format": "Discovery",
+    "netQty": "16 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 125000,
+    "expectedSellingPricePaise": 115000,
+    "mrpPerMl": "Rs 78.1",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-22",
+    "product": "Shamama Nova Perfume Oil 8 ml",
+    "format": "Attar",
+    "netQty": "8 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 195000,
+    "expectedSellingPricePaise": 179400,
+    "mrpPerMl": "Rs 243.8",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-23",
+    "product": "Ruh Khus Modern Perfume Oil 8 ml",
+    "format": "Attar",
+    "netQty": "8 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 195000,
+    "expectedSellingPricePaise": 179400,
+    "mrpPerMl": "Rs 243.8",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-24",
+    "product": "Gulab Kannauj Perfume Oil 8 ml",
+    "format": "Attar",
+    "netQty": "8 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 195000,
+    "expectedSellingPricePaise": 179400,
+    "mrpPerMl": "Rs 243.8",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-25",
+    "product": "Kasturi White Perfume Oil 8 ml",
+    "format": "Attar",
+    "netQty": "8 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 195000,
+    "expectedSellingPricePaise": 179400,
+    "mrpPerMl": "Rs 243.8",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-26",
+    "product": "Oud Assam Accord Perfume Oil 8 ml",
+    "format": "Attar",
+    "netQty": "8 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 195000,
+    "expectedSellingPricePaise": 179400,
+    "mrpPerMl": "Rs 243.8",
+    "channels": [
+      "D2C",
+      "Nykaa",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-27",
+    "product": "Attar Discovery 5 x 2 ml",
+    "format": "Discovery",
+    "netQty": "10 ml",
+    "concentrationPct": 30,
+    "mrpPaise": 95000,
+    "expectedSellingPricePaise": 87400,
+    "mrpPerMl": "Rs 95",
+    "channels": [
+      "D2C",
+      "stores"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-28",
+    "product": "Mogra Hour Solid Perfume 10 g",
+    "format": "Solid",
+    "netQty": "10 g",
+    "concentrationPct": 15,
+    "mrpPaise": 145000,
+    "expectedSellingPricePaise": 133400,
+    "mrpPerMl": "Rs 145",
+    "channels": [
+      "D2C",
+      "stores",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-29",
+    "product": "First Rain Solid Perfume 10 g",
+    "format": "Solid",
+    "netQty": "10 g",
+    "concentrationPct": 15,
+    "mrpPaise": 145000,
+    "expectedSellingPricePaise": 133400,
+    "mrpPerMl": "Rs 145",
+    "channels": [
+      "D2C",
+      "stores",
+      "airports"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-30",
+    "product": "First Rain Candle 200 g",
+    "format": "Candle",
+    "netQty": "200 g",
+    "concentrationPct": 9,
+    "mrpPaise": 245000,
+    "expectedSellingPricePaise": 220500,
+    "mrpPerMl": "Rs 12.2",
+    "channels": [
+      "D2C",
+      "stores",
+      "Nykaa",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-31",
+    "product": "Mogra Hour Candle 200 g",
+    "format": "Candle",
+    "netQty": "200 g",
+    "concentrationPct": 9,
+    "mrpPaise": 245000,
+    "expectedSellingPricePaise": 220500,
+    "mrpPerMl": "Rs 12.2",
+    "channels": [
+      "D2C",
+      "stores",
+      "Nykaa",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-32",
+    "product": "Jharokha Amber Candle 200 g",
+    "format": "Candle",
+    "netQty": "200 g",
+    "concentrationPct": 9,
+    "mrpPaise": 245000,
+    "expectedSellingPricePaise": 220500,
+    "mrpPerMl": "Rs 12.2",
+    "channels": [
+      "D2C",
+      "stores",
+      "Nykaa",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-33",
+    "product": "Tea Estate Candle 200 g",
+    "format": "Candle",
+    "netQty": "200 g",
+    "concentrationPct": 9,
+    "mrpPaise": 245000,
+    "expectedSellingPricePaise": 220500,
+    "mrpPerMl": "Rs 12.2",
+    "channels": [
+      "D2C",
+      "stores",
+      "Nykaa",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-34",
+    "product": "First Rain Reed Diffuser 200 ml",
+    "format": "Reed",
+    "netQty": "200 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 265500,
+    "mrpPerMl": "Rs 14.8",
+    "channels": [
+      "D2C",
+      "stores",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High (refill)",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-35",
+    "product": "Tea Estate Reed Diffuser 200 ml",
+    "format": "Reed",
+    "netQty": "200 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 265500,
+    "mrpPerMl": "Rs 14.8",
+    "channels": [
+      "D2C",
+      "stores",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High (refill)",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-36",
+    "product": "Saffron Sandal Reed Diffuser 200 ml",
+    "format": "Reed",
+    "netQty": "200 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 295000,
+    "expectedSellingPricePaise": 265500,
+    "mrpPerMl": "Rs 14.8",
+    "channels": [
+      "D2C",
+      "stores",
+      "gifting",
+      "hotels"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "High (refill)",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-37",
+    "product": "Mogra Hour Linen Mist 100 ml",
+    "format": "Room spray",
+    "netQty": "100 ml",
+    "concentrationPct": 8,
+    "mrpPaise": 125000,
+    "expectedSellingPricePaise": 112500,
+    "mrpPerMl": "Rs 12.5",
+    "channels": [
+      "D2C",
+      "QC",
+      "stores"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 73
+  },
+  {
+    "code": "VA-38",
+    "product": "Konkan Vetiver Room Spray 100 ml",
+    "format": "Room spray",
+    "netQty": "100 ml",
+    "concentrationPct": 8,
+    "mrpPaise": 125000,
+    "expectedSellingPricePaise": 112500,
+    "mrpPerMl": "Rs 12.5",
+    "channels": [
+      "D2C",
+      "QC",
+      "stores"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-39",
+    "product": "Tea Estate Room Spray 100 ml",
+    "format": "Room spray",
+    "netQty": "100 ml",
+    "concentrationPct": 8,
+    "mrpPaise": 125000,
+    "expectedSellingPricePaise": 112500,
+    "mrpPerMl": "Rs 12.5",
+    "channels": [
+      "D2C",
+      "QC",
+      "stores"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-40",
+    "product": "First Rain Car Fragrance",
+    "format": "Car",
+    "netQty": "8 ml oil",
+    "concentrationPct": 30,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 80900,
+    "mrpPerMl": "Rs 112.4",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High (refill)",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-41",
+    "product": "Malabar Pepper Car Fragrance",
+    "format": "Car",
+    "netQty": "8 ml oil",
+    "concentrationPct": 30,
+    "mrpPaise": 89900,
+    "expectedSellingPricePaise": 80900,
+    "mrpPerMl": "Rs 112.4",
+    "channels": [
+      "QC",
+      "marketplaces",
+      "D2C"
+    ],
+    "giftSuitability": "Medium",
+    "replenishment": "High (refill)",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-42",
+    "product": "Jharokha Amber Bakhoor 40 g",
+    "format": "Bakhoor",
+    "netQty": "40 g",
+    "concentrationPct": 15,
+    "mrpPaise": 145000,
+    "expectedSellingPricePaise": 130500,
+    "mrpPerMl": "Rs 36.2",
+    "channels": [
+      "D2C",
+      "stores",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-43",
+    "product": "Vasana Duo Coffret (2 x 50 ml EDP)",
+    "format": "Gift",
+    "netQty": "100 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 550000,
+    "expectedSellingPricePaise": 522500,
+    "mrpPerMl": null,
+    "channels": [
+      "D2C",
+      "stores",
+      "corporate"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Low",
+    "sourceSlide": 74
+  },
+  {
+    "code": "VA-44",
+    "product": "Vasana Festive Coffret (50 ml EDP + candle + attar)",
+    "format": "Gift",
+    "netQty": "58 ml",
+    "concentrationPct": 20,
+    "mrpPaise": 750000,
+    "expectedSellingPricePaise": 712500,
+    "mrpPerMl": null,
+    "channels": [
+      "D2C",
+      "stores",
+      "corporate",
+      "wedding"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Low",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-01",
+    "product": "Rajmahal Rose Extrait 75 ml",
+    "format": "Extrait",
+    "netQty": "75 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 1450000,
+    "expectedSellingPricePaise": 1450000,
+    "mrpPerMl": "Rs 193.3",
+    "channels": [
+      "Flagship boutiques",
+      "D2C",
+      "luxury department stores",
+      "airports"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-02",
+    "product": "Nilgiri Night Extrait 75 ml",
+    "format": "Extrait",
+    "netQty": "75 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 1450000,
+    "expectedSellingPricePaise": 1450000,
+    "mrpPerMl": "Rs 193.3",
+    "channels": [
+      "Flagship boutiques",
+      "D2C",
+      "luxury department stores",
+      "airports"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-03",
+    "product": "Mysore Gold Extrait 75 ml",
+    "format": "Extrait",
+    "netQty": "75 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 1450000,
+    "expectedSellingPricePaise": 1450000,
+    "mrpPerMl": "Rs 193.3",
+    "channels": [
+      "Flagship boutiques",
+      "D2C",
+      "luxury department stores",
+      "airports"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-04",
+    "product": "Deccan Incense Extrait 75 ml",
+    "format": "Extrait",
+    "netQty": "75 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 1450000,
+    "expectedSellingPricePaise": 1450000,
+    "mrpPerMl": "Rs 193.3",
+    "channels": [
+      "Flagship boutiques",
+      "D2C",
+      "luxury department stores",
+      "airports"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-05",
+    "product": "Champa Saffron Extrait 75 ml",
+    "format": "Extrait",
+    "netQty": "75 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 1450000,
+    "expectedSellingPricePaise": 1450000,
+    "mrpPerMl": "Rs 193.3",
+    "channels": [
+      "Flagship boutiques",
+      "D2C",
+      "luxury department stores",
+      "airports"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-06",
+    "product": "Ruh Gulab Kannauj 3 ml",
+    "format": "Ruh",
+    "netQty": "3 ml",
+    "concentrationPct": 60,
+    "mrpPaise": 1250000,
+    "expectedSellingPricePaise": 1250000,
+    "mrpPerMl": "Rs 4166.7",
+    "channels": [
+      "Boutiques",
+      "D2C",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Low",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-07",
+    "product": "Mitti Ruh 3 ml",
+    "format": "Ruh",
+    "netQty": "3 ml",
+    "concentrationPct": 60,
+    "mrpPaise": 1250000,
+    "expectedSellingPricePaise": 1250000,
+    "mrpPerMl": "Rs 4166.7",
+    "channels": [
+      "Boutiques",
+      "D2C",
+      "Gulf export"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Low",
+    "sourceSlide": 74
+  },
+  {
+    "code": "AN-08",
+    "product": "Anvaya Coffret 5 x 5 ml",
+    "format": "Discovery",
+    "netQty": "25 ml",
+    "concentrationPct": 27,
+    "mrpPaise": 450000,
+    "expectedSellingPricePaise": 450000,
+    "mrpPerMl": "Rs 180",
+    "channels": [
+      "Boutiques",
+      "D2C"
+    ],
+    "giftSuitability": "High",
+    "replenishment": "Medium",
+    "sourceSlide": 74
+  }
+]
