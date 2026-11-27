@@ -24,3 +24,8 @@ export const IST = "Asia/Kolkata";
 export function formatDate(d: Date | string, withTime = false): string {
   return new Intl.DateTimeFormat("en-IN", { timeZone: IST, day: "numeric", month: "short", year: "numeric", ...(withTime ? { hour: "2-digit", minute: "2-digit" } : {}) }).format(new Date(d));
 }
+
+/** "₹2,950" or "From ₹2,950" for multi-size products. Shared by server and client components. */
+export function priceLabel(p: { minPricePaise: number; maxPricePaise: number }) {
+  return p.minPricePaise === p.maxPricePaise ? formatINR(p.minPricePaise) : `From ${formatINR(p.minPricePaise)}`;
+}

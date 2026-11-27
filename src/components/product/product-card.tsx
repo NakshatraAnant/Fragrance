@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import type { ProductCard } from "@/lib/catalog";
-import { formatINR, perUnit } from "@/lib/money";
+import { formatINR, perUnit, priceLabel } from "@/lib/money";
 import { ProductVisual } from "./product-visual";
 import { WishlistButton } from "./wishlist";
 import { CompareToggle } from "./local-lists";
@@ -10,10 +10,6 @@ import { useCart } from "@/components/cart/cart-provider";
 import { Stars } from "@/components/ui/stars";
 import { Modal } from "@/components/ui/modal";
 import { track } from "@/components/analytics-tracker";
-
-export function priceLabel(p: Pick<ProductCard, "minPricePaise" | "maxPricePaise">) {
-  return p.minPricePaise === p.maxPricePaise ? formatINR(p.minPricePaise) : `From ${formatINR(p.minPricePaise)}`;
-}
 
 export function ProductCardView({ p, position, list, compact }: { p: ProductCard; position?: number; list?: string; compact?: boolean }) {
   const { mutate, loading } = useCart();
