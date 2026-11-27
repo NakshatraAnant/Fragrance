@@ -1,5 +1,6 @@
 "use client";
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 import { useToast } from "@/components/ui/toast";
 import { track } from "@/components/analytics-tracker";
 import type { CartView } from "@/lib/cart";
@@ -26,7 +27,9 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     if (res.ok) setCart(await res.json());
   }, []);
 
-  useEffect(() => { refresh(); }, [refresh]);
+  const pathname = usePathname();
+  // Re-sync after navigations (e.g. checkout empties the bag server-side).
+  useEffect(() => { refresh(); }, [refresh, pathname]);
 
   const mutate = useCallback(async (body: Record<string, unknown>, opts: { openDrawer?: boolean; success?: string } = {}) => {
     setLoading(true);

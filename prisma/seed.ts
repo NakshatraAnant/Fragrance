@@ -156,7 +156,7 @@ async function main() {
       isFeatured: (fm.format === "EDP" && brand === "vasana") || fm.format === "EXTRAIT", merchRank: rank++,
       contentsNote: DISCOVERY_CONTENTS[first.code]?.note ?? COFFRET_NOTES[first.code] ?? null,
       sourceRef: `Blueprint SKU master, slide ${first.sourceSlide}${conceptCode ? `; concept ${conceptCode} (Appendix M)` : ""}`,
-      seoTitle: `${name} ${subtitle} | ${BRANDS.find((b) => b.slug === brand)!.name}`,
+      seoTitle: `${name.endsWith(subtitle) ? name : `${name} ${subtitle}`} | ${BRANDS.find((b) => b.slug === brand)!.name}`,
       seoDescription: shortDescription.slice(0, 155),
       regulatoryNotes: "Per-SKU compliance pending: IFRA certificate, allergen review vs IS 4707 (Part 2): 2025, stability, Legal Metrology label (slides 71–74).",
     };
