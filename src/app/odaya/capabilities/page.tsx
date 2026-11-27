@@ -4,6 +4,7 @@ import { B2B_SERVICES } from "@/lib/b2b";
 import { db } from "@/lib/db";
 
 export const metadata: Metadata = { title: "Capabilities" };
+export const dynamic = "force-dynamic";
 
 export default async function Capabilities() {
   const docs = await db.b2BDocument.findMany({ where: { isPublic: true }, orderBy: { createdAt: "desc" } });

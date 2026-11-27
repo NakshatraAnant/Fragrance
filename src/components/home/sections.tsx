@@ -40,7 +40,7 @@ export function Hero({ s }: { s: Section }) {
       <div className="container-x grid min-h-[78svh] items-end gap-10 py-16 md:grid-cols-[1.25fr_1fr] md:items-center md:py-24">
         <div>
           <p className="eyebrow animate-rise">Vasana House · Est. in India</p>
-          <h1 id="hero-h" className="display mt-5 text-[clamp(3rem,8vw,7.5rem)] animate-rise [animation-delay:120ms]">{s.title}</h1>
+          <h1 id="hero-h" className="display mt-5 text-[clamp(3rem,8vw,7.5rem)]">{s.title}</h1>
           {s.subtitle && <p className="lede mt-6 animate-rise text-ink/75 [animation-delay:240ms]">{s.subtitle}</p>}
           <div className="mt-9 flex flex-wrap gap-3 animate-rise [animation-delay:360ms]">
             {s.ctaHref && <Link href={s.ctaHref} className="btn btn-primary">{s.ctaLabel}</Link>}

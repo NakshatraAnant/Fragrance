@@ -67,7 +67,11 @@ export async function createOrderFromCart(cartId: string, input: CheckoutInput, 
   if (cart.creditId) {
     if (!ctx.userId) throw new AppError("Sign in to use your discovery credit.", "CREDIT_REQUIRES_ACCOUNT");
     const row = await db.discoveryCredit.findUnique({ where: { id: cart.creditId } });
-    if (!row || row.userId !== ctx.userId || row.status !== "AVAILABLE" || row.expiresAt < new Date()) throw new AppError("That discovery credit is no longer available.", "CREDIT_INVALID");
+    if (!row || row.userId !== ctx.userId || row.status !== "AVAILABLE" || row.expiresAt < new Date()) {
+      // Detach the stale credit so the customer can retry without it.
+      await db.cart.update({ where: { id: cartId }, data: { creditId: null } });
+      throw new AppError("That discovery credit is no longer available, so we've removed it from your bag. Please review your total.", "CREDIT_INVALID");
+    }
     credit = { id: row.id, amountPaise: row.amountPaise, eligibleFormats: rule.eligibleFormats, excludedBrands: rule.excludedBrands };
   }
 

@@ -20,7 +20,10 @@
     "test:unit": "vitest run tests/unit",
     "test:integration": "vitest run tests/integration",
     "test:e2e": "playwright test",
-    "jobs:expire": "tsx scripts/run-jobs.ts"
+    "jobs:expire": "tsx scripts/run-jobs.ts",
+    "postinstall": "prisma generate",
+    "test:all": "vitest run && next build && playwright test",
+    "catalogue:report": "tsx scripts/catalogue-report.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
